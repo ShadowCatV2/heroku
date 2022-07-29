@@ -1,0 +1,9 @@
+{
+	"ip":"RawCopper.aternos.me:15201",
+	"port": 15201,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123",
+	"login-cmd":"/login 123"
+}
